@@ -1,6 +1,6 @@
 package Test1;
 
-public class Attributes {
+public class AttributesSubject1 {
 
     int age = 21;
     String ethnicity = "hispanic";
